@@ -1,2 +1,3 @@
 # Header
-###### Added a header in h1 markdown
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+###image of yaktocat
